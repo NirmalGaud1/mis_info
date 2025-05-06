@@ -1,7 +1,4 @@
-streamlit
-numpy
+tensorflow
 pandas
 scikit-learn
 imblearn
-tensorflow
-keras
